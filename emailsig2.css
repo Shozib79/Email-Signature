@@ -1,0 +1,78 @@
+.table{
+    width: 600px;
+    box-shadow: 0 0 10px;
+    color: #bbbbbb;
+    margin: 100px;
+    padding: 15px;
+    background-color: darkorchid;
+    font-family: sans-serif;
+}
+.image{
+    max-width: 100%;
+    border: 1px solid #ffffff;
+}
+.content{
+    width: 65%;
+    vertical-align: top;
+    padding-left: 30px;
+
+}
+.name{margin: 0;
+    color: #ffffff;
+    font-size: 30px;
+}
+.post{
+    margin: 10px 0 20px;
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: normal;
+    padding-bottom: 8px;
+}
+.insta{
+    max-width: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-left: -3px;
+}
+.para{
+    margin: 10px 0;
+    color: #ffffff;
+}
+
+.para2{
+    margin: 10px 0;
+    color: #ffffff;
+}
+.facebook{
+    max-width: 14px;
+    vertical-align: middle;
+    margin-right: 9px;
+}
+.para3{
+    margin: 10px 0;
+    color: #ffffff;
+}
+.gmail{
+    max-width: 15px;
+    vertical-align: middle;
+    margin-right: 9px;
+}
+.para4{
+    margin: 10px 0;
+    color: #ffffff;
+}
+.phone{
+    max-width: 14px;
+    vertical-align: middle;
+    margin-right: 9px;
+}
+a:link,a:visited{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+a:link,a:hover{
+    color: black;
+}

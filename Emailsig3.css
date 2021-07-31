@@ -1,0 +1,123 @@
+.table{
+    width: 600px;
+    box-shadow: 0 0 10px;
+    color: #bbbbbb;
+    margin: 100px;
+    padding: 15px;
+    background-color: white;
+    font-family: sans-serif;
+}
+.pic{
+    background-color: darkturquoise;
+}
+
+.image{
+    height: 110px;
+    width: 110px;
+    border: 1px solid #ffffff;
+    margin-left: 42px;
+    margin-top: 18px;
+    border-radius: 50%;
+}
+.content{
+    background-color: rgb(66, 35, 107);
+    width: 65%;
+    vertical-align: top;
+    padding-left: 30px;
+
+}
+.name{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.post{
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+.com{
+    color:white;
+    font-size: 23px;
+}
+.adress{
+    color: white;
+
+}
+
+.phone{
+    color: white;
+}
+.media{
+    max-width: 18px;
+    padding: 4px;
+    margin-left: 16px;
+    margin-bottom: 6px;
+    display: inline-flex;
+    flex-flow: row;
+    transform: translateY(-20%);
+    border: hidden;
+    border-radius: 50%;
+    background-color: cyan;
+    
+}
+.media:hover{
+    background-color: grey;
+}
+.link{
+    text-decoration: none;
+}
+.para2{
+    margin: 10px 0;
+    color: #ffffff;
+    font-size: 17px;
+}
+.gmail{
+    max-width: 15px;
+    vertical-align: middle;
+    margin-right: 9px;
+    padding: 6px;
+    border: hidden;
+    border-radius: 50%;
+    background-color: aqua;
+
+}
+.para1{
+    margin: 10px 0;
+    color: #ffffff;
+    font-size: 17px;
+}
+.address{
+    max-width: 16px;
+    vertical-align: middle;
+    margin-right: 9px;
+    padding: 6px;
+    border: hidden;
+    border-radius: 50%;
+    background-color: aqua;
+
+}
+.para3{
+    margin: 10px 0;
+    color: #ffffff;
+    font-size: 17px;
+}
+.phone{
+    max-width: 15px;
+    vertical-align: middle;
+    margin-right: 9px;
+    padding: 6px;
+    border: hidden;
+    border-radius: 50%;
+    background-color: aqua;
+
+}
+.company{
+    margin-top: 20px;
+    height: 56px;
+    width: 60px;
+    margin-bottom: -12px;
+}
+
+
+
